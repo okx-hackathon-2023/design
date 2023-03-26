@@ -1,8 +1,11 @@
 # design
 
 ## Project information:
+
 https://devfolio.co/projects/defiz-dbf8
+
 https://drive.google.com/file/d/1DQyX4lmf42i4TIzMD7aV4EraJYDNMM-Z/view
+
 https://docs.google.com/presentation/d/19nfFhLA5Bm0c_bTvsmpgxemZjkw0SNzL/edit#slide=id.p1
 
 ## Demo
